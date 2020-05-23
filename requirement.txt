@@ -1,0 +1,14 @@
+This file is used to make similar environment in which this code is running in my local machine.
+
+Processor	1.8 GHz Dual-Core Intel Core i5
+Memory 		8 GB 1600 MHz DDR3
+Graphics	Intel HD Graphics 6000 1536 MB
+
+Libraries:
+
+1. Tensorlflow
+2. Keras
+3. Tensorflow Object Detection API
+4. OpenCV
+5. h5py
+6. tree
